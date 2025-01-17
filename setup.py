@@ -6,9 +6,9 @@ setup(
     description="A simple live Markdown preview server",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Seu Nome",
-    author_email="seu.email@example.com",
-    url="https://github.com/seuusuario/live-markdown-server",
+    author="Luiz Gabriel",
+    author_email="luizgpinheiro0905@gmail.com",
+    url="https://github.com/Luiznunvoa/LiveMarkdownServer",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
