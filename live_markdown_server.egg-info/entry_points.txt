@@ -1,2 +1,0 @@
-[console_scripts]
-live-markdown = live_markdown_server.__main__:main
