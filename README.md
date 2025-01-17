@@ -2,8 +2,9 @@
 
 A simple live Markdown preview server built with Flask.
 
-## Usage
+## Instalation
 
-Install the package and run the command:
-
-
+<code> git clone https://github.com/Luiznunvoa/LiveMarkdownServer</code>
+<code> cd LiveMarkdownServer</code>
+<code> pipx install .</code>
+<code>live-markdown /path/to/yourfile.md</code>
